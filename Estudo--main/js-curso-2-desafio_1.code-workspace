@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "js-curso-2-desafio_1"
+		},
+		{
+			"path": "logica-js-projeto_inicial"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/.jj": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			".mule": true
+		},
+		"liveServer.settings.multiRootWorkspaceName": "logica-js-projeto_inicial"
+	}
+}

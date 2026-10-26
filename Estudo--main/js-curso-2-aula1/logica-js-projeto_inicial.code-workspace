@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/logica-js-projeto_inicial"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/.jj": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			".mule": true
+		},
+		"liveServer.settings.multiRootWorkspaceName": "js-curso-2-aula1"
+	}
+}
